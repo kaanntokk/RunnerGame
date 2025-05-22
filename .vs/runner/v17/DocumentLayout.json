@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\GameProjects\\runner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1231BB7E-CE19-282C-7A69-EFAADCEBE4E7}|Assembly-CSharp.csproj|c:\\projects\\gameprojects\\runner\\assets\\scripts\\tilespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1231BB7E-CE19-282C-7A69-EFAADCEBE4E7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tilespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1231BB7E-CE19-282C-7A69-EFAADCEBE4E7}|Assembly-CSharp.csproj|C:\\Projects\\GameProjects\\runner\\assets\\scripts\\tileground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1231BB7E-CE19-282C-7A69-EFAADCEBE4E7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tileground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1231BB7E-CE19-282C-7A69-EFAADCEBE4E7}|Assembly-CSharp.csproj|C:\\Projects\\GameProjects\\runner\\assets\\scripts\\runnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1231BB7E-CE19-282C-7A69-EFAADCEBE4E7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1231BB7E-CE19-282C-7A69-EFAADCEBE4E7}|Assembly-CSharp.csproj|C:\\Projects\\GameProjects\\runner\\assets\\scripts\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1231BB7E-CE19-282C-7A69-EFAADCEBE4E7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1231BB7E-CE19-282C-7A69-EFAADCEBE4E7}|Assembly-CSharp.csproj|C:\\Projects\\GameProjects\\runner\\assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1231BB7E-CE19-282C-7A69-EFAADCEBE4E7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1231BB7E-CE19-282C-7A69-EFAADCEBE4E7}|Assembly-CSharp.csproj|C:\\Projects\\GameProjects\\runner\\assets\\scripts\\runneranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1231BB7E-CE19-282C-7A69-EFAADCEBE4E7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runneranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RunnerAnimator.cs",
+              "DocumentMoniker": "C:\\Projects\\GameProjects\\runner\\Assets\\Scripts\\RunnerAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RunnerAnimator.cs",
+              "ToolTip": "C:\\Projects\\GameProjects\\runner\\Assets\\Scripts\\RunnerAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RunnerAnimator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:25:04.822Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TileGround.cs",
+              "DocumentMoniker": "C:\\Projects\\GameProjects\\runner\\Assets\\Scripts\\TileGround.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TileGround.cs",
+              "ToolTip": "C:\\Projects\\GameProjects\\runner\\Assets\\Scripts\\TileGround.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TileGround.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T22:40:03.994Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TileSpawner.cs",
+              "DocumentMoniker": "C:\\Projects\\GameProjects\\runner\\Assets\\Scripts\\TileSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TileSpawner.cs",
+              "ToolTip": "C:\\Projects\\GameProjects\\runner\\Assets\\Scripts\\TileSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TileSpawner.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:13:40.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RunnerController.cs",
+              "DocumentMoniker": "C:\\Projects\\GameProjects\\runner\\Assets\\Scripts\\RunnerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RunnerController.cs",
+              "ToolTip": "C:\\Projects\\GameProjects\\runner\\Assets\\Scripts\\RunnerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RunnerController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:06:58.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameInput.cs",
+              "DocumentMoniker": "C:\\Projects\\GameProjects\\runner\\Assets\\Scripts\\GameInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameInput.cs",
+              "ToolTip": "C:\\Projects\\GameProjects\\runner\\Assets\\Scripts\\GameInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:39:38.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Runner.cs",
+              "DocumentMoniker": "C:\\Projects\\GameProjects\\runner\\Assets\\Scripts\\Runner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Runner.cs",
+              "ToolTip": "C:\\Projects\\GameProjects\\runner\\Assets\\Scripts\\Runner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Runner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:52:45.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
